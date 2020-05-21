@@ -1,7 +1,6 @@
 {
   "name": "task-manager",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.14"
-  }
+    "mongoose": "^5.3.16",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziyaf/task-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ziyaf/task-manager/issues"
+  },
+  "homepage": "https://github.com/Ziyaf/task-manager#readme",
+  "description": ""
 }
